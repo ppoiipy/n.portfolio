@@ -2,17 +2,6 @@
 
 Personal portfolio website showcasing my projects and development skills.
 
-## 🚀 About Me
-
-Final-year ICT student at Mahidol University.  
-Mobile Developer specializing in:
-
-- Flutter
-- Firebase
-- SQLite
-- API Integration
-- Recommendation Systems
-
 ## 🧩 Projects
 
 ### 📱 GinRaiDee
